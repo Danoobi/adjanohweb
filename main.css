@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+.base{background-color: beige}
+.opp{color: #001162}
+.ziak{color: black}
+
+th,tr,td{
+	;color: black; border: outset #001162 2px;text-align: center}
+
+h1,h2{color: saddlebrown}
+
+table{align-content: center}
